@@ -1,2 +1,3 @@
 # SerialPortDemo
 android串口编程测试demo
+输入android设备的串口文件名称以及硬件设备的波特率，即可打开串口；可输入需要传输的串口数据；接收到的串口数据会以dialog窗口的形式展现出来。
